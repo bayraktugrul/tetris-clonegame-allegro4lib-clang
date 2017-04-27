@@ -1,5 +1,5 @@
 # tetris-clonegame-allegro4lib-clang
-A simple tetris game developed by using the Allegro library in C language. You can change "definitions.c" file to "definitionts.h". It is recommended to call like ".h"
+A simple tetris game developed by using the Allegro library in C language. You might change "definitions.c" file to "definitionts.h". It is recommended to call like ".h"
 
 
 
